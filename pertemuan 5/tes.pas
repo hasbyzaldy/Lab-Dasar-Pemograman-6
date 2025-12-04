@@ -1,5 +1,6 @@
 uses crt;
 var 
+    i : integer;
     nilai : array [1..5] of integer;
 begin 
     clrscr;
@@ -10,5 +11,6 @@ begin
     end;
 
     for i := 1 to 5 do
-    writeln('nilai ke-',i,':')
+    writeln('nilai ke-',i,':',nilai[i]);
+
 end.
