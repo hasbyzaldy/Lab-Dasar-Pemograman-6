@@ -15,7 +15,7 @@ begin
     // statment if else
     // if (nilai <= 65) then
     //     begin
-    //         writeln('anda tidak lulus')
+    //         writeln('anda tidak lulus');
     //     end
     // else
     //     begin
@@ -65,4 +65,5 @@ begin
     else
         writeln('inputan tidak valid');
     end;
+
 end.
