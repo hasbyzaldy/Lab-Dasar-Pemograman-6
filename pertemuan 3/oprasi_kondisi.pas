@@ -25,15 +25,15 @@ begin
     //statement tiga kondisi
     // if (nilai = 100) then
     //     begin
-    //         writeln('perfect')
+    //         writeln('perfect');
     //     end
     // else if (nilai <= 65) then
     //     begin
-    //         writeln('anda tidak lulus')
+    //         writeln('anda tidak lulus');
     //     end
     // else
     //     begin
-    //         writeln('anda lulus')
+    //         writeln('anda lulus');
     //     end;
 
     // nested if
@@ -67,3 +67,4 @@ begin
     end;
 
 end.
+
