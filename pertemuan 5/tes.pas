@@ -14,3 +14,4 @@ begin
     writeln('nilai ke-',i,':',nilai[i]);
 
 end.
+
